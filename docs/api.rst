@@ -17,7 +17,7 @@ TChannel
 .. autoclass:: tchannel.schemes.ThriftArgScheme
     :members:
 
-.. autoclass:: tchannel.tornado.RequestDispatcher
+.. autoclass:: tchannel.tornado.TChannel
     :members:
 
 .. autoclass:: tchannel.tornado.Request
